@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Install Python packages (Windows)",
+      "type": "shell",
+      "command": "${workspaceFolder}\\setup_windows.bat",
+      "problemMatcher": []
+    },
+    {
+      "label": "2. Import local PDFs (Windows)",
+      "type": "shell",
+      "command": "${workspaceFolder}\\extract_windows.bat",
+      "problemMatcher": []
+    },
+    {
+      "label": "3. Start Science Bowl Trainer (Windows)",
+      "type": "shell",
+      "command": "${workspaceFolder}\\start_windows.bat",
+      "problemMatcher": []
+    }
+  ]
+}

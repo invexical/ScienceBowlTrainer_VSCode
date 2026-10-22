@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.science_bowl_player/
+practice_progress.json
+practice_history.json
+practice_bookmarks.json
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
