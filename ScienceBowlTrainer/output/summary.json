@@ -1,0 +1,40 @@
+{
+  "total_files_seen": 754,
+  "supported_files": 745,
+  "files_by_status": {
+    "unsupported format": 9,
+    "no recognizable questions": 24,
+    "parsed": 711,
+    "no extractable text (scanned PDF or empty file)": 10
+  },
+  "questions_extracted": 29127,
+  "questions_needing_review": 4157,
+  "possible_duplicate_questions": 950,
+  "by_category": {
+    "Chemistry": 5046,
+    "Mathematics": 5133,
+    "Energy": 2543,
+    "Biology": 5151,
+    "Earth & Space Science": 5042,
+    "Physics": 5062,
+    "Unknown": 1119,
+    "Computer Science": 31
+  },
+  "by_type": {
+    "Toss-up": 14333,
+    "Bonus": 14794
+  },
+  "by_format": {
+    "Multiple Choice": 9782,
+    "Short Answer": 17313,
+    "Unknown": 2032
+  },
+  "output_files": [
+    "questions.csv",
+    "questions.json",
+    "questions_needing_review.csv",
+    "file_report.csv",
+    "possible_duplicates.csv",
+    "summary.json"
+  ]
+}
