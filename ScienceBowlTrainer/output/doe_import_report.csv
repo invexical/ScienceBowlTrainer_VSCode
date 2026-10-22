@@ -1,0 +1,259 @@
+set,round,url,status,questions,pages,warnings
+1,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round1.pdf,ok,50,13,
+1,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round2.pdf,ok,50,13,
+1,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round3.pdf,ok,48,13,BONUS #18: Missing answer
+1,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round4.pdf,ok,48,13,BONUS #11: Missing answer
+1,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round5.pdf,ok,50,13,
+1,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round6.pdf,ok,49,13,BONUS #11: Missing answer | TOSSUP #17: May reference a diagram; verify PDF
+1,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round7.pdf,ok,49,13,
+1,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round8.pdf,ok,50,13,
+1,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round9.pdf,ok,50,13,
+1,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round10.pdf,ok,49,13,BONUS #11: Missing answer | BONUS #14: May reference a diagram; verify PDF
+1,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round11.pdf,ok,49,13,BONUS #11: Missing answer
+1,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round12.pdf,ok,50,13,
+1,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round13.pdf,ok,48,13,TOSSUP #4: Missing answer | BONUS #14: May reference a diagram; verify PDF
+1,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round14.pdf,ok,49,13,TOSSUP #4: Missing multiple-choice options | BONUS #18: Missing answer
+1,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round15.pdf,ok,50,13,
+1,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round16.pdf,ok,48,13,BONUS #7: May reference a diagram; verify PDF | TOSSUP #9: Missing answer
+1,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf,ok,48,13,BONUS #4: Missing answer
+2,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round1.pdf,ok,47,13,BONUS #3: Missing answer | TOSSUP #9: Missing answer | TOSSUP #20: Missing answer; Missing multiple-choice options
+2,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round2.pdf,ok,48,13,TOSSUP #12: Missing answer; Missing multiple-choice options | TOSSUP #12: Missing answer | BONUS #22: May reference a diagram; verify PDF
+2,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round3.pdf,ok,47,13,BONUS #13: Missing answer | TOSSUP #19: Missing answer
+2,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round4.pdf,ok,47,13,TOSSUP #4: Missing answer | TOSSUP #16: Missing answer | TOSSUP #16: Missing answer | TOSSUP #23: Missing multiple-choice options
+2,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round5.pdf,ok,47,13,TOSSUP #3: Missing answer; Missing multiple-choice options | BONUS #9: Missing answer | TOSSUP #20: Missing answer
+2,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round6.pdf,ok,47,13,BONUS #5: May reference a diagram; verify PDF | TOSSUP #6: Missing answer | TOSSUP #12: Missing multiple-choice options | TOSSUP #17: Missing answer | TOSSUP #17: Missing answer
+2,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round7.pdf,ok,46,13,TOSSUP #7: Missing answer | TOSSUP #7: Missing answer | TOSSUP #13: Missing answer; Missing multiple-choice options | TOSSUP #13: Missing answer; Missing multiple-choice options
+2,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round8.pdf,ok,46,13,TOSSUP #3: Missing answer | BONUS #9: Missing answer | TOSSUP #10: May reference a diagram; verify PDF | TOSSUP #16: Missing answer | TOSSUP #22: Missing answer
+2,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round9.pdf,ok,46,13,TOSSUP #16: Missing answer | TOSSUP #16: Missing answer; Missing multiple-choice options | TOSSUP #23: Missing answer; Missing multiple-choice options | TOSSUP #23: Missing answer; Missing multiple-choice options
+2,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round10.pdf,ok,47,13,TOSSUP #3: Missing answer | TOSSUP #9: Missing answer | TOSSUP #14: Missing answer
+2,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round11.pdf,ok,46,13,TOSSUP #6: Missing multiple-choice options | TOSSUP #6: Missing answer | BONUS #7: Missing answer | TOSSUP #12: Missing answer | TOSSUP #23: Missing answer
+2,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round12.pdf,ok,46,13,TOSSUP #4: Missing answer | TOSSUP #9: Missing answer | TOSSUP #23: Missing answer | TOSSUP #23: Missing answer
+2,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf,ok,43,13,TOSSUP #3: Missing answer | BONUS #3: Missing answer | BONUS #4: Missing answer; Missing multiple-choice options | BONUS #8: May reference a diagram; verify PDF | TOSSUP #9: Missing answer | BONUS #9: Missing answer | TOSSUP #14: Missing answer | TOSSUP #20: Missing answer
+2,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round14.pdf,ok,45,13,TOSSUP #6: Missing answer; Missing multiple-choice options | TOSSUP #6: Missing answer | TOSSUP #12: Missing answer | BONUS #12: Missing answer | TOSSUP #23: Missing answer; Missing multiple-choice options | TOSSUP #24: May reference a diagram; verify PDF
+2,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round15.pdf,ok,47,13,TOSSUP #1: Missing answer; Missing multiple-choice options | TOSSUP #1: Missing answer | BONUS #8: May reference a diagram; verify PDF | BONUS #16: May reference a diagram; verify PDF | BONUS #17: May reference a diagram; verify PDF | TOSSUP #19: Missing answer; Missing multiple-choice options
+3,,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Energy-Category.pdf,error,0,0,No complete question/answer pairs recognized
+3,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-1C.pdf,ok,49,13,TOSSUP #10: Missing answer
+3,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-2C.pdf,ok,50,13,TOSSUP #14: May reference a diagram; verify PDF
+3,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-3C.pdf,ok,50,13,TOSSUP #18: May reference a diagram; verify PDF
+3,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-4C.pdf,ok,50,13,BONUS #14: May reference a diagram; verify PDF
+3,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-5C.pdf,ok,50,13,
+3,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-6C.pdf,ok,49,13,TOSSUP #4: Missing answer
+3,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-7C.pdf,ok,49,13,TOSSUP #11: Missing answer
+3,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-8C.pdf,ok,50,13,
+3,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-9C.pdf,ok,49,13,TOSSUP #18: Missing answer
+3,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-10C.pdf,ok,50,13,
+3,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-11C.pdf,ok,50,13,
+3,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-12C.pdf,ok,49,13,TOSSUP #13: May reference a diagram; verify PDF | TOSSUP #18: Missing answer
+3,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-13C.pdf,ok,50,13,
+3,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-14C.pdf,ok,50,13,BONUS #8: May reference a diagram; verify PDF | TOSSUP #14: May reference a diagram; verify PDF
+3,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-15C.pdf,ok,49,13,TOSSUP #4: Missing answer
+3,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-16C.pdf,ok,50,13,
+3,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-17C.pdf,ok,49,13,BONUS #7: May reference a diagram; verify PDF | BONUS #18: Missing answer
+4,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round1.pdf,ok,50,13,
+4,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round2.pdf,ok,49,13,TOSSUP #2: Missing answer | TOSSUP #13: May reference a diagram; verify PDF
+4,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round3.pdf,ok,50,13,
+4,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round4.pdf,ok,49,13,TOSSUP #17: Missing answer
+4,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round5.pdf,ok,49,13,TOSSUP #23: Missing answer
+4,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round6.pdf,ok,49,13,
+4,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round7.pdf,ok,49,13,BONUS #13: Missing answer
+4,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round8.pdf,ok,50,13,BONUS #12: Missing multiple-choice options
+4,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round9.pdf,ok,49,13,TOSSUP #1: Missing answer
+4,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round10.pdf,ok,49,13,BONUS #3: Missing answer
+4,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round11.pdf,ok,50,13,
+4,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round12.pdf,ok,50,13,
+4,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round13.pdf,ok,49,13,TOSSUP #22: Missing answer
+4,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round14.pdf,ok,50,13,
+4,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round15.pdf,ok,49,13,BONUS #11: Missing multiple-choice options | TOSSUP #14: Missing answer
+4,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round16.pdf,ok,49,14,TOSSUP #14: Missing multiple-choice options | TOSSUP #18: Missing answer
+4,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round17.pdf,ok,50,13,BONUS #9: May reference a diagram; verify PDF | BONUS #16: May reference a diagram; verify PDF
+5,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round1.pdf,ok,50,13,
+5,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round2.pdf,ok,49,13,BONUS #23: Missing answer; Missing multiple-choice options
+5,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round3.pdf,ok,50,13,
+5,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round4.pdf,ok,50,13,
+5,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round5.pdf,ok,50,13,
+5,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round6.pdf,ok,50,13,BONUS #23: May reference a diagram; verify PDF
+5,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round7.pdf,ok,50,13,
+5,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round8.pdf,ok,50,13,
+5,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round9.pdf,ok,50,13,
+5,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round10.pdf,ok,50,13,
+5,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round11.pdf,ok,50,13,TOSSUP #7: May reference a diagram; verify PDF
+5,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round12.pdf,ok,49,13,TOSSUP #17: Missing answer | BONUS #23: May reference a diagram; verify PDF
+5,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round13.pdf,ok,50,13,
+5,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round14.pdf,ok,50,13,
+5,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round15.pdf,ok,50,13,
+6,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND1.pdf,ok,44,13,TOSSUP #4: Missing answer | TOSSUP #4: Missing answer | TOSSUP #10: Missing answer; Missing multiple-choice options | TOSSUP #10: Missing answer; Missing multiple-choice options | TOSSUP #22: Missing answer; Missing multiple-choice options | TOSSUP #22: Missing answer; Missing multiple-choice options
+6,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND2.pdf,ok,47,13,TOSSUP #4: Missing answer; Missing multiple-choice options | TOSSUP #10: Missing answer | TOSSUP #16: Missing answer; Missing multiple-choice options
+6,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND3.pdf,ok,47,13,BONUS #11: Missing answer | BONUS #19: Missing answer; Missing multiple-choice options | BONUS #25: Missing answer
+6,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND4.pdf,ok,48,13,BONUS #6: Missing answer | TOSSUP #24: Missing answer; Missing multiple-choice options
+6,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND5.pdf,ok,45,13,BONUS #1: Missing answer; Missing multiple-choice options | TOSSUP #6: Missing answer; Missing multiple-choice options | TOSSUP #6: Missing answer | TOSSUP #14: Missing answer | TOSSUP #20: Missing answer
+6,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND6.pdf,ok,47,13,TOSSUP #7: Missing answer | TOSSUP #10: Missing answer | TOSSUP #16: Missing answer; Missing multiple-choice options | TOSSUP #22: Missing multiple-choice options
+6,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND7.pdf,ok,46,13,TOSSUP #4: Missing answer; Missing multiple-choice options | TOSSUP #4: Missing answer; Missing multiple-choice options | TOSSUP #10: Missing answer; Missing multiple-choice options | BONUS #11: May reference a diagram; verify PDF | TOSSUP #16: Missing multiple-choice options | BONUS #16: Missing answer | BONUS #21: May reference a diagram; verify PDF | BONUS #22: Missing multiple-choice options
+6,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND8.pdf,ok,45,13,BONUS #5: Missing answer | TOSSUP #7: May reference a diagram; verify PDF | TOSSUP #9: Missing answer | TOSSUP #13: Missing answer | TOSSUP #13: Missing answer | TOSSUP #19: Missing answer; Missing multiple-choice options
+6,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND9.pdf,ok,46,13,TOSSUP #12: Missing answer; Missing multiple-choice options | TOSSUP #20: Missing answer | TOSSUP #20: Missing answer; Missing multiple-choice options | TOSSUP #25: Missing answer
+6,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND10.pdf,ok,44,13,TOSSUP #1: Missing answer; Missing multiple-choice options | BONUS #6: Missing answer | TOSSUP #14: Missing answer; Missing multiple-choice options | TOSSUP #14: Missing answer | TOSSUP #20: Missing answer
+6,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND11.pdf,ok,48,13,TOSSUP #22: Missing answer; Missing multiple-choice options | BONUS #22: Missing answer
+6,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND12.pdf,ok,48,13,BONUS #1: May reference a diagram; verify PDF | TOSSUP #4: Missing answer | BONUS #10: Missing answer | TOSSUP #22: Missing multiple-choice options
+6,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND13.pdf,ok,48,13,TOSSUP #11: Missing multiple-choice options | TOSSUP #21: Missing answer | BONUS #22: Missing answer; Missing multiple-choice options
+6,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND14.pdf,ok,47,13,TOSSUP #6: Missing answer | TOSSUP #12: Missing answer; Missing multiple-choice options | BONUS #16: Missing multiple-choice options | TOSSUP #20: Missing answer; Missing multiple-choice options
+6,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND15.pdf,ok,47,14,TOSSUP #6: Missing answer; Missing multiple-choice options | TOSSUP #14: Missing answer | BONUS #20: Missing answer | TOSSUP #25: May reference a diagram; verify PDF | BONUS #25: May reference a diagram; verify PDF
+7,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-1.pdf,ok,47,13,TOSSUP #9: Missing multiple-choice options | BONUS #9: Missing multiple-choice options | TOSSUP #15: Missing answer; Missing multiple-choice options | BONUS #15: Missing answer; Missing multiple-choice options | BONUS #21: Missing answer
+7,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-2.pdf,ok,46,13,TOSSUP #10: Missing answer; Missing multiple-choice options; May reference a diagram; verify PDF | BONUS #16: Missing answer; Missing multiple-choice options | TOSSUP #23: Missing answer | BONUS #23: Missing answer
+7,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-3.pdf,ok,46,13,BONUS #7: Missing answer | TOSSUP #13: Missing answer; Missing multiple-choice options | TOSSUP #18: May reference a diagram; verify PDF | TOSSUP #19: Missing answer; Missing multiple-choice options | TOSSUP #19: Missing answer
+7,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-4.pdf,ok,47,13,TOSSUP #3: Missing answer | BONUS #3: Missing answer | TOSSUP #9: Missing answer | BONUS #25: Missing multiple-choice options
+7,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-5.pdf,ok,47,13,TOSSUP #2: Missing answer | BONUS #13: Missing answer; Missing multiple-choice options | BONUS #20: Missing answer
+7,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-6.pdf,ok,44,13,BONUS #1: Missing answer | BONUS #3: Missing answer; Missing multiple-choice options | BONUS #8: May reference a diagram; verify PDF | BONUS #9: Missing answer | BONUS #13: Missing answer | TOSSUP #14: Missing multiple-choice options | BONUS #14: Missing answer; Missing multiple-choice options | BONUS #15: Missing answer | BONUS #21: Missing multiple-choice options
+7,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-7.pdf,ok,48,13,TOSSUP #5: Missing answer | BONUS #23: Missing answer
+7,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-8.pdf,ok,48,13,BONUS #1: Missing answer | TOSSUP #7: Missing answer | TOSSUP #13: Missing multiple-choice options | BONUS #18: May reference a diagram; verify PDF | TOSSUP #25: Missing multiple-choice options
+7,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-9.pdf,ok,47,13,BONUS #12: Missing answer | BONUS #16: Missing answer | TOSSUP #21: Missing answer; Missing multiple-choice options | BONUS #21: Missing multiple-choice options
+7,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-10.pdf,ok,48,13,TOSSUP #14: Missing answer | TOSSUP #20: Missing answer; Missing multiple-choice options
+7,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-11.pdf,ok,49,13,BONUS #9: Missing multiple-choice options | TOSSUP #15: Missing answer | TOSSUP #21: Missing multiple-choice options
+7,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-12.pdf,ok,49,13,BONUS #12: May reference a diagram; verify PDF | TOSSUP #16: Missing answer
+7,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-13.pdf,ok,47,13,TOSSUP #1: Missing answer | TOSSUP #7: Missing answer | BONUS #15: May reference a diagram; verify PDF | BONUS #19: Missing answer
+7,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-14.pdf,ok,47,13,TOSSUP #1: Missing multiple-choice options | BONUS #3: Missing multiple-choice options | BONUS #6: May reference a diagram; verify PDF | TOSSUP #9: Missing multiple-choice options | TOSSUP #12: Missing answer; Missing multiple-choice options | BONUS #18: Missing answer; Missing multiple-choice options | TOSSUP #21: Missing answer | BONUS #25: May reference a diagram; verify PDF
+7,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-15.pdf,ok,49,13,BONUS #20: Missing answer
+7,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-16.pdf,ok,45,13,BONUS #9: Missing multiple-choice options | TOSSUP #14: Missing answer; Missing multiple-choice options | TOSSUP #15: Missing answer | TOSSUP #20: Missing answer; Missing multiple-choice options | TOSSUP #20: May reference a diagram; verify PDF | TOSSUP #21: Missing answer; Missing multiple-choice options | TOSSUP #21: Missing answer
+7,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-17.pdf,ok,47,13,TOSSUP #5: Missing answer; Missing multiple-choice options | BONUS #13: May reference a diagram; verify PDF | TOSSUP #16: Missing answer; Missing multiple-choice options | BONUS #23: Missing answer | TOSSUP #25: Missing multiple-choice options
+8,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-1-A.pdf,ok,45,12,BONUS #1: Missing answer
+8,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-2-A.pdf,ok,46,12,BONUS #1: May reference a diagram; verify PDF
+8,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-3-A.pdf,ok,46,12,
+8,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-4-A.pdf,ok,45,12,BONUS #10: May reference a diagram; verify PDF
+8,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-5-A.pdf,ok,45,12,TOSSUP #21: Missing answer
+8,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-6-A.pdf,ok,46,12,
+8,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-7-A.pdf,ok,45,12,BONUS #6: Missing answer
+8,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-8-A.pdf,ok,46,12,TOSSUP #9: May reference a diagram; verify PDF
+8,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-9-A.pdf,ok,46,12,
+8,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-10-A.pdf,ok,46,12,BONUS #9: May reference a diagram; verify PDF | BONUS #22: May reference a diagram; verify PDF
+8,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-11-A.pdf,ok,42,12,BONUS #1: Missing answer | TOSSUP #11: Missing answer | BONUS #19: Missing answer
+8,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-12-A.pdf,ok,46,12,
+8,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-13-A.pdf,ok,46,12,
+8,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-14-A.pdf,ok,46,12,
+8,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-15-A.pdf,ok,46,12,TOSSUP #4: May reference a diagram; verify PDF
+8,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-16-A.pdf,ok,46,12,
+8,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-17-A.pdf,ok,46,12,BONUS #23: May reference a diagram; verify PDF
+9,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_1.pdf,ok,46,12,TOSSUP #23: May reference a diagram; verify PDF
+9,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_2.pdf,ok,46,12,
+9,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_3A.pdf,ok,46,12,
+9,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_4A.pdf,ok,46,12,
+9,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_5A.pdf,ok,46,12,
+9,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_6A.pdf,ok,46,12,
+9,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_7A.pdf,ok,46,12,BONUS #8: May reference a diagram; verify PDF
+9,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_8A.pdf,ok,46,12,BONUS #12: May reference a diagram; verify PDF
+9,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_9A.pdf,ok,46,12,
+9,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_10A.pdf,ok,46,12,
+9,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_11A.pdf,ok,46,12,
+9,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_12A.pdf,ok,46,12,
+9,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_13A.pdf,ok,46,12,TOSSUP #11: Missing multiple-choice options
+9,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_14A.pdf,ok,46,12,BONUS #23: May reference a diagram; verify PDF
+9,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_15A.pdf,ok,46,12,BONUS #4: May reference a diagram; verify PDF | TOSSUP #11: Missing multiple-choice options | TOSSUP #15: May reference a diagram; verify PDF
+9,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_16A.pdf,ok,46,12,
+9,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_17A.pdf,ok,46,12,TOSSUP #8: Missing multiple-choice options
+10,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/1A_HS_Reg_2016.pdf,ok,46,13,BONUS #9: May reference a diagram; verify PDF
+10,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/2A_HS_Reg_2016.pdf,ok,46,12,
+10,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/3A_HS_Reg_2016.pdf,ok,46,12,
+10,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/4A_HS_Reg_2016.pdf,ok,46,12,BONUS #22: May reference a diagram; verify PDF
+10,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/5A_HS_Reg_2016.pdf,ok,46,12,
+10,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/6A_HS_Reg_2016.pdf,ok,46,12,
+10,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/7A_HS_Reg_2016.pdf,ok,46,12,BONUS #16: May reference a diagram; verify PDF
+10,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/8A_HS_Reg_2016.pdf,ok,46,12,
+10,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/9A_HS_Reg_2016.pdf,ok,46,12,TOSSUP #15: May reference a diagram; verify PDF
+10,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/10A_HS_Reg_2016.pdf,ok,46,12,
+10,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/11A_HS_Reg_2016.pdf,ok,46,12,BONUS #8: May reference a diagram; verify PDF | BONUS #15: May reference a diagram; verify PDF | BONUS #23: May reference a diagram; verify PDF
+10,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/12A_HS_Reg_2016.pdf,ok,46,12,
+10,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/13A_HS_Reg_2016.pdf,ok,46,12,TOSSUP #18: May reference a diagram; verify PDF | BONUS #23: May reference a diagram; verify PDF
+10,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/14A_HS_Reg_2016.pdf,ok,46,12,
+10,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/15A_HS_Reg_2016.pdf,ok,46,13,
+10,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/16A_HS_Reg_2016.pdf,ok,46,12,
+10,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/17A_HS_Reg_2016.pdf,ok,46,12,TOSSUP #12: May reference a diagram; verify PDF
+11,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_1.pdf,ok,46,12,
+11,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_2.pdf,ok,46,12,
+11,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_3A.pdf,ok,46,12,BONUS #14: May reference a diagram; verify PDF | BONUS #23: May reference a diagram; verify PDF
+11,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_4A.pdf,ok,46,12,
+11,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_5A.pdf,ok,45,12,
+11,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_6A.pdf,ok,46,12,BONUS #3: May reference a diagram; verify PDF | TOSSUP #21: May reference a diagram; verify PDF
+11,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_7A.pdf,ok,46,12,
+11,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_8A.pdf,ok,46,12,
+11,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_9A.pdf,ok,46,12,
+11,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_10A.pdf,ok,46,12,
+11,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_11A.pdf,ok,46,12,
+11,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_12A.pdf,ok,46,12,TOSSUP #1: May reference a diagram; verify PDF
+11,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_13A.pdf,ok,46,12,TOSSUP #23: May reference a diagram; verify PDF
+11,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_14A.pdf,ok,46,12,TOSSUP #21: May reference a diagram; verify PDF
+11,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_15A.pdf,ok,46,12,
+11,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_16A.pdf,ok,45,12,TOSSUP #16: May reference a diagram; verify PDF
+11,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_17A.pdf,ok,46,12,BONUS #9: Missing multiple-choice options
+12,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-1.pdf,ok,46,12,BONUS #5: May reference a diagram; verify PDF | BONUS #22: May reference a diagram; verify PDF
+12,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-2.pdf,ok,46,12,
+12,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-3.pdf,ok,46,12,
+12,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-4.pdf,ok,46,12,
+12,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-5.pdf,ok,46,12,BONUS #10: May reference a diagram; verify PDF
+12,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-6.pdf,ok,46,12,BONUS #1: May reference a diagram; verify PDF | TOSSUP #2: May reference a diagram; verify PDF | TOSSUP #6: May reference a diagram; verify PDF | BONUS #6: May reference a diagram; verify PDF | BONUS #20: May reference a diagram; verify PDF
+12,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-7.pdf,ok,46,12,
+12,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-8.pdf,ok,46,12,TOSSUP #14: May reference a diagram; verify PDF
+12,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-9.pdf,ok,46,12,
+12,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-10.pdf,ok,46,12,
+12,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-11.pdf,ok,46,12,BONUS #1: May reference a diagram; verify PDF | BONUS #18: May reference a diagram; verify PDF
+12,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-12.pdf,ok,46,12,TOSSUP #9: May reference a diagram; verify PDF
+12,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-13.pdf,ok,46,12,TOSSUP #9: May reference a diagram; verify PDF
+12,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-14.pdf,ok,46,12,
+12,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-15.pdf,ok,46,12,BONUS #8: May reference a diagram; verify PDF | BONUS #12: May reference a diagram; verify PDF | TOSSUP #22: May reference a diagram; verify PDF
+12,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-16.pdf,ok,46,12,TOSSUP #14: May reference a diagram; verify PDF
+12,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-17.pdf,ok,46,12,BONUS #20: May reference a diagram; verify PDF
+13,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-1A.pdf,ok,46,12,
+13,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-2A.pdf,ok,46,12,
+13,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-3A.pdf,ok,46,12,TOSSUP #19: May reference a diagram; verify PDF
+13,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-4A.pdf,ok,46,12,BONUS #3: May reference a diagram; verify PDF | BONUS #20: May reference a diagram; verify PDF
+13,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-5A.pdf,ok,46,12,
+13,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-6A.pdf,ok,46,12,
+13,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-15A.pdf,ok,46,12,BONUS #13: May reference a diagram; verify PDF
+13,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf,ok,46,12,BONUS #8: May reference a diagram; verify PDF
+13,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-17A.pdf,ok,46,12,
+14,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-7A.pdf,ok,46,12,
+14,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-8A.pdf,ok,46,12,
+14,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-9A.pdf,ok,46,12,BONUS #21: May reference a diagram; verify PDF
+14,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-10A.pdf,ok,46,12,
+14,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-11A.pdf,ok,46,12,TOSSUP #1: May reference a diagram; verify PDF | TOSSUP #6: May reference a diagram; verify PDF | TOSSUP #19: May reference a diagram; verify PDF
+14,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-12A.pdf,ok,46,12,BONUS #6: May reference a diagram; verify PDF | TOSSUP #19: May reference a diagram; verify PDF
+14,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-13A.pdf,ok,46,12,BONUS #1: May reference a diagram; verify PDF | TOSSUP #22: May reference a diagram; verify PDF
+14,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-14A.pdf,ok,46,12,BONUS #5: May reference a diagram; verify PDF | BONUS #16: May reference a diagram; verify PDF
+15,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd1.pdf,ok,46,12,
+15,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd2.pdf,ok,46,12,BONUS #9: May reference a diagram; verify PDF
+15,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd3.pdf,ok,46,12,
+15,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd4.pdf,ok,46,12,BONUS #19: May reference a diagram; verify PDF
+15,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd5.pdf,ok,46,12,TOSSUP #9: May reference a diagram; verify PDF | BONUS #20: May reference a diagram; verify PDF
+15,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd6.pdf,ok,46,12,
+15,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd7.pdf,ok,46,12,TOSSUP #11: May reference a diagram; verify PDF
+15,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd8.pdf,ok,46,12,
+15,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd9.pdf,ok,46,12,BONUS #16: May reference a diagram; verify PDF
+15,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd10.pdf,ok,46,12,BONUS #22: May reference a diagram; verify PDF
+15,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd11.pdf,ok,46,12,
+15,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd12.pdf,ok,46,12,
+15,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd13.pdf,ok,46,12,
+15,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd14.pdf,ok,46,12,
+15,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd15.pdf,ok,46,12,BONUS #10: May reference a diagram; verify PDF | TOSSUP #15: May reference a diagram; verify PDF | TOSSUP #17: May reference a diagram; verify PDF
+15,16,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd16.pdf,ok,46,12,
+15,17,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd17.pdf,ok,46,12,TOSSUP #8: May reference a diagram; verify PDF
+16,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-1-HS-2021.pdf,ok,36,18,
+16,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-2-HS-2021.pdf,ok,36,18,
+16,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-3-HS-2021.pdf,ok,36,18,
+16,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-4-HS-2021.pdf,ok,36,18,
+16,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-5-HS-2021.pdf,ok,36,18,BONUS #3: May reference a diagram; verify PDF
+16,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-6-HS-2021.pdf,ok,36,18,
+16,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-7-HS-2021.pdf,ok,36,18,
+16,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-8-HS-2021.pdf,ok,36,18,
+16,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-9-HS-2021.pdf,ok,36,18,
+16,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-10-HS-2021.pdf,ok,36,18,BONUS #6: May reference a diagram; verify PDF
+17,1,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-1.pdf,ok,36,18,
+17,2,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-2.pdf,ok,36,18,
+17,3,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-3.pdf,ok,36,18,
+17,4,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-4.pdf,ok,36,18,
+17,5,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-5.pdf,ok,36,18,
+17,6,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-6.pdf,ok,36,18,BONUS #5: May reference a diagram; verify PDF
+17,7,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-7.pdf,ok,36,18,
+17,8,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-8.pdf,ok,36,18,
+17,9,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-9.pdf,ok,36,18,
+17,10,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-10.pdf,ok,36,18,
+17,11,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-11.pdf,ok,36,18,TOSSUP #4: May reference a diagram; verify PDF
+17,12,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-12.pdf,ok,36,18,
+17,13,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-13.pdf,ok,36,18,TOSSUP #13: May reference a diagram; verify PDF
+17,14,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-14.pdf,ok,36,18,TOSSUP #5: May reference a diagram; verify PDF
+17,15,https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-15.pdf,ok,36,18,
